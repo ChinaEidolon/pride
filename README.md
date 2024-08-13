@@ -1,2 +1,2 @@
 # pride
-App that helps identify your personality.
+AI app beta version.
